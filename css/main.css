@@ -1,0 +1,80 @@
+.body
+{
+  font-family: font-family: 'Roboto Condensed', sans-serif, Arial;
+  font-weight: normal;
+  font-style: normal;
+}
+/*BANNER START*/
+.banner
+{
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  text-align: center;
+  align-items: center;
+  /*width: 450px;*/
+}
+.banner img
+{
+  background-color: black;
+
+}
+.banner p::first-letter
+{
+  font-weight: bold;
+  font-size: 30px;
+}
+/*BANNER END*/
+
+/*ABOUT START*/
+
+/*ABOUT END*/
+
+/*HOOK START*/
+.hook
+{
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  text-align: center;
+  align-items: center;
+}
+#oneMusk
+{
+  font-weight: bold;
+}
+#taste
+{
+  font-style: italic;
+}
+/*HOOK END*/
+
+/*VALUES BLOCK START*/
+.block1_2
+{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+}
+/*VALUES START/*
+
+/*VALUES END*/
+/*CARING START*/
+
+/*CARING END*/
+/*AUTHENTIC START*/
+
+/*AUTHENTIC END*/
+/*UNIQUE START*/
+
+/*UNIQUE END*/
+/*THIRSTY START*/
+
+/*THIRSTY END*/
+/*VALUES BLOCK END*/
+/* BEERS LIST  START*/
+
+/*BEERS LIST END*/
+/*CONTACT START*/
+
+/*CONTACT END*/
