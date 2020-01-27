@@ -1,0 +1,130 @@
+.body
+{
+  font-family: font-family: 'Roboto Condensed', sans-serif, Arial;
+  font-weight: normal;
+  font-style: normal;
+  line-height: 1.4;
+}
+/*BANNER START*/
+.banner
+{
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  text-align: center;
+  align-items: center;
+  /*width: 450px;*/
+}
+.banner img
+{
+  background-color: black;
+
+}
+.banner p::first-letter
+{
+  font-weight: bold;
+  font-size: 30px;
+}
+/*BANNER END*/
+
+/*ABOUT START*/
+
+/*ABOUT END*/
+
+/*HOOK START*/
+.hook
+{
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  text-align: center;
+  align-items: center;
+}
+#oneMusk
+{
+  font-weight: bold;
+}
+#taste
+{
+  font-style: italic;
+}
+/*HOOK END*/
+
+/*VALUES BLOCK START*/
+.block1_2
+{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  align-items: center;
+}
+/*VALUES START*/
+.resolve
+{
+  margin-left: 40px;
+}
+/*VALUES END*/
+/*CARING START*/
+.block3_4
+{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  align-items: center;
+}
+.block5_6
+{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  align-items: center;
+}
+.caring {margin-left: 35px;}
+/*CARING END*/
+/*AUTHENTIC START*/
+.authentic {margin-right: 20px;}
+/*AUTHENTIC END*/
+/*UNIQUE START*/
+
+/*UNIQUE END*/
+/*THIRSTY START*/
+
+/*THIRSTY END*/
+/*VALUES BLOCK END*/
+/* BEERS LIST  START*/
+.beer
+{
+  align-items: center;
+  margin-left: 30%;
+}
+.beers
+{
+  display: flex;
+  text-align: center;
+  float: left;
+  flex-direction: column;
+}
+.pics
+{
+  display: flex;
+  text-align: center;
+  float: center;
+  flex-direction: column;
+}
+.pics img
+{
+  width: 250px;
+  height: 250px;
+}
+/*BEERS LIST END*/
+/*CONTACT START*/
+.contact
+{
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  text-align: center;
+  align-items: center;
+}
+
+/*CONTACT END*/
